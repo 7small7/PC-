@@ -10,7 +10,7 @@
 
 2、[Gitee](https://gitee.com/bruce_qiq/webpage-pc-answering-system)
 
-3、[官网以及联系方式](https://www.tutudati.com/doc/6.html)
+3、[官网&&联系方式](https://www.tutudati.com/doc/6.html)
 
 ## 功能介绍
 
